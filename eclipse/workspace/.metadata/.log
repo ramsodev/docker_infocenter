@@ -1,0 +1,58 @@
+!SESSION 2015-07-10 19:51:47.424 -----------------------------------------------
+eclipse.buildId=4.5.0.I20150603-2000
+java.version=1.7.0_75
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=es_ES
+Framework arguments:  -application org.eclipse.help.base.infocenterApplication
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -application org.eclipse.help.base.infocenterApplication -data /home/jjescudero/docker/infocenter/eclipse/workspace
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2015-07-10 19:51:57.938
+!MESSAGE Unable to acquire PluginConverter service during generation for: /home/jjescudero/docker/infocenter/eclipse/plugins/d:myAppeclipse.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2015-07-10 19:51:57.987
+!MESSAGE Unable to acquire PluginConverter service during generation for: /home/jjescudero/docker/infocenter/eclipse/plugins/d:myAppeclipse.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2015-07-10 19:51:58.064
+!MESSAGE Unable to acquire PluginConverter service during generation for: /home/jjescudero/docker/infocenter/eclipse/plugins/d:myAppeclipse.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2015-07-10 19:51:58.156
+!MESSAGE Unable to acquire PluginConverter service during generation for: /home/jjescudero/docker/infocenter/eclipse/plugins/d:myAppeclipse.
+!SESSION 2015-07-10 20:07:56.632 -----------------------------------------------
+eclipse.buildId=4.5.0.I20150603-2000
+java.version=1.7.0_75
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=es_ES
+Framework arguments:  -application org.eclipse.help.base.infocenterApplication
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -application org.eclipse.help.base.infocenterApplication -data /home/jjescudero/docker/infocenter/eclipse/workspace
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2015-07-10 20:08:02.780
+!MESSAGE Unable to acquire PluginConverter service during generation for: /home/jjescudero/docker/infocenter/eclipse/plugins/d:myAppeclipse.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2015-07-10 20:08:02.832
+!MESSAGE Unable to acquire PluginConverter service during generation for: /home/jjescudero/docker/infocenter/eclipse/plugins/d:myAppeclipse.
+!SESSION 2015-07-14 17:38:01.019 -----------------------------------------------
+eclipse.buildId=4.5.0.I20150603-2000
+java.version=1.7.0_75
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=es_ES
+Framework arguments:  -application org.eclipse.help.base.infocenterApplication
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -application org.eclipse.help.base.infocenterApplication -data /home/jjescudero/docker/infocenter/eclipse/workspace
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2015-07-14 17:38:04.524
+!MESSAGE Unable to acquire PluginConverter service during generation for: /home/jjescudero/docker/infocenter/eclipse/plugins/d:myAppeclipse.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2015-07-14 17:38:04.561
+!MESSAGE Unable to acquire PluginConverter service during generation for: /home/jjescudero/docker/infocenter/eclipse/plugins/d:myAppeclipse.
+!SESSION 2015-07-15 08:36:28.860 -----------------------------------------------
+eclipse.buildId=4.5.0.I20150603-2000
+java.version=1.7.0_75
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=es_ES
+Framework arguments:  -application org.eclipse.help.base.infocenterApplication
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -application org.eclipse.help.base.infocenterApplication -data /home/jjescudero/docker/infocenter/eclipse/workspace
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2015-07-15 08:36:35.559
+!MESSAGE Unable to acquire PluginConverter service during generation for: /home/jjescudero/docker/infocenter/eclipse/plugins/com.psn.arquitectura.doc.jar.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2015-07-15 08:36:35.597
+!MESSAGE Unable to acquire PluginConverter service during generation for: /home/jjescudero/docker/infocenter/eclipse/plugins/com.psn.arquitectura.doc.jar.

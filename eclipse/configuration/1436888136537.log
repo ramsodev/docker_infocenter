@@ -1,0 +1,13 @@
+!SESSION 2015-07-14 17:35:36.302 -----------------------------------------------
+eclipse.buildId=4.5.0.I20150603-2000
+java.version=1.7.0_75
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=es_ES
+Framework arguments:  -application org.eclipse.help.base.infocenterApplication -por 8081
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -application org.eclipse.help.base.infocenterApplication -data /home/jjescudero/docker/infocenter/eclipse/workspace -por 8081
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2015-07-14 17:35:39.689
+!MESSAGE Unable to acquire PluginConverter service during generation for: /home/jjescudero/docker/infocenter/eclipse/plugins/d:myAppeclipse.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2015-07-14 17:35:39.728
+!MESSAGE Unable to acquire PluginConverter service during generation for: /home/jjescudero/docker/infocenter/eclipse/plugins/d:myAppeclipse.
